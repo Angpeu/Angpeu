@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Angpeu!
 
-<!--
-**Angpeu/Angpeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I specialize in building websites and online stores with WordPress, developing custom WP plugins, and driving results with digital marketing. I’m also passionate about Python programming and love using LLM-powered automation to streamline my workflow and deliver smarter solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛒 Building websites & e-commerce solutions on **WordPress**
+- 🔌 Developing custom **WordPress plugins**
+- 💡 Digital marketing: SEO, PPC, analytics, and growth strategies
+- 🐍 Python programming & process automation
+- 🤖 Integrating LLMs and AI tools into real-world projects
+- 🌱 Always learning, experimenting, and sharing knowledge
+
+## 📈 GitHub Stats
+
+![Angpeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angpeu&show_icons=true&theme=default)
+
+## 🔗 Connect with Me
+
+- [My Website]((https://zakutsky.com/)
+- [Telegram Channel](https://t.me/zakutskii)
+- github@zakutsky.com
+
+---
+
+Thanks for stopping by my profile! ⭐️
