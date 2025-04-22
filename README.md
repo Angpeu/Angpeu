@@ -17,7 +17,7 @@ Welcome to my GitHub! I specialize in building websites and online stores with W
 
 ## 🔗 Connect with Me
 
-- [My Website]((https://zakutsky.com/)
+- [My Website](https://zakutsky.com/)
 - [Telegram Channel](https://t.me/zakutskii)
 - github@zakutsky.com
 
