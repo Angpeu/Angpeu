@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Angpeu!
+# 👋 Hi, I'm Andrey Zakutsky!
 
 Welcome to my GitHub! I specialize in building websites and online stores with WordPress, developing custom WP plugins, and driving results with digital marketing. I’m also passionate about Python programming and love using LLM-powered automation to streamline my workflow and deliver smarter solutions.
 
